@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body {
+    background-image: url('https://bit.ly/3FhUwv2');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    } 
+    header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    }
+    #about-me {
+    color: rgb(0, 0, 0);
+    }
+    #contact {
+    background-color: tan;
+    }
+    nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    }
+    nav ul li {
+    margin-right: 20px;
+    }
+    nav ul li:last-child {
+    margin-right: 0;
+    }
+    a {
+    color: #fff;
+    text-decoration: none;
+    }
+    main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    }
+    section {
+    margin-bottom: 40px;
+    }
+    h2 {
+    margin-bottom: 10px;
+    color: crimson;
+    font-family: comic sans-serif;
+    }
+    ul {
+    list-style-type: none;
+    }
+    li {
+    margin-bottom: 20px;
+    }
+    h3 {
+    margin-bottom: 10px;
+    }
+    img {
+    max-width: 100%;
+    }
+    .btn {
+    background-color: #030000;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    }
+    footer {
+    background-color: ;
+    }    
